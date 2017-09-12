@@ -1,2 +1,6 @@
-# application-testing
-Repository with usefull materials for testing our applications
+Welcome to application testing repository!
+===================================
+
+This repository contains useful materials for anyone who want to write tests. 
+
+-------
